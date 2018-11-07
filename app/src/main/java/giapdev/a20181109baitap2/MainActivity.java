@@ -13,7 +13,7 @@ import android.widget.TextView;
 public class MainActivity extends Activity {
     EditText tx1 ;
     Button bt1;
-
+// add mergen
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
