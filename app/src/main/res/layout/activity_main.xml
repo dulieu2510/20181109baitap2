@@ -7,10 +7,10 @@
     tools:context=".MainActivity">
 
 
-    <TextView
+    <EditText
         android:id="@+id/xtx1"
         android:layout_width="100dp"
-        android:layout_height="30dp"
+        android:layout_height="50dp"
 
         android:text="@string/textview"
         tools:background="@color/colortx"
