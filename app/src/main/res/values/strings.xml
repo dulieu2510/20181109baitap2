@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">20181109baitap2</string>
+
+    <string name="gui">gui</string>
+    <string name="button">Button</string>
+    <string name="quaylai">quaylai</string>
+    <string name="textview">TextView</string>
+
+</resources>
